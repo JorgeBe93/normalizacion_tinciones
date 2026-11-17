@@ -2,7 +2,7 @@
 
 Repositorio de código correspondiente al trabajo de tesis de maestría:  
 **"Evaluación comparativa de algoritmos de normalización de color en imágenes histológicas H&E de tejido de pene"**  
-Universidad Comunera (UCOM) — Facultad de Ciencias de la Computación
+Universidad Comunera (UCOM) — Facultad de Informática
 
 ---
 
